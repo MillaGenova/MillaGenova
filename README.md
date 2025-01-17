@@ -1,6 +1,6 @@
 <p>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=millagenova&" alt="millagenova" width="450"/>
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=millagenova&show_icons=true&locale=en&layout=compact" alt="millagenova" width="300" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=millagenova&show_icons=true&locale=en&layout=compact" alt="millagenova" width="350" />
 </p>
 
 <p>
