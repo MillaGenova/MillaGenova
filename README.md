@@ -4,10 +4,10 @@
 </p>
 
 <p>
-   <img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=MillaGenova&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=MillaGenova&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 </p> 
 
 <p>
- <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" /> 
+ <img align="right" alt="Coding" width="480" src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif" /> 
 </p> 
 
