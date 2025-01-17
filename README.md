@@ -1,5 +1,5 @@
 <p>
-<img width="450" src="https://github-readme-streak-stats-eight.vercel.app/?user=MillaGenova&theme=shades-of-purple&background=45%2CEB545400%2CEB545400&hide_border=true&" alt="Milla Genova's GitHub Streak" />   
+<img align="center" width="450" src="https://github-readme-streak-stats-eight.vercel.app/?user=MillaGenova&theme=shades-of-purple&background=45%2CEB545400%2CEB545400&hide_border=true&" alt="Milla Genova's GitHub Streak" />   
    <img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=MillaGenova&theme=shades-of-purple&bg_color=DDDDDD00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&" /> 
 
 </p>
