@@ -1,10 +1,12 @@
 <p>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=millagenova&" alt="millagenova" width="480"/>
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=millagenova&show_icons=true&locale=en&layout=compact" alt="millagenova" width="350" />
+      <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=MillaGenova&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+
 </p>
 
 <p>
-   <img align="left" width="470" src="https://github-readme-stats.vercel.app/api?username=MillaGenova&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=millagenova&show_icons=true&locale=en&layout=compact" alt="millagenova" width="400" />
+
 </p> 
 
 <p>
